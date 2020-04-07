@@ -1,0 +1,111 @@
+
+  {
+    "id": 1,
+    "name": "张三",
+    "sex": "女",
+    "industry": "化工",
+    "company": "中国石化",
+    "birthDate": "2020-03-03T16:00:00.000Z",
+    "mail": "aaa@163.com",
+    "telephone": "111",
+    "post": "111",
+    "city":"上海",
+    "salary": "111",
+    "workExp": [
+      {
+        "id": 1,
+        "workingDate": [
+          "2019-01-01T16:00:00.000Z",
+          "2019-02-02T16:00:00.000Z"
+        ],
+        "onJob": true,
+        "postDesc": "哈哈哈",
+        "dept": "商务",
+        "post1": "经理",
+        "companyName": "中国石油"
+      },
+      {
+        "id": 2,
+        "workingDate": [
+          "2019-01-01T16:00:00.000Z",
+          "2019-02-02T16:00:00.000Z"
+        ],
+        "onJob": true,
+        "postDesc": "哈哈哈",
+        "dept": "商务",
+        "post1": "经理",
+        "companyName": "中国石油"
+      }
+    ],
+    "eduExp": [
+      {
+        "id": 1,
+        "eduDate": [
+          "2019-01-01T16:00:00.000Z",
+          "2019-02-08T16:00:00.000Z"
+        ],
+        "schoolName": "中国石油大学",
+        "major": "电子商务",
+        "degree": "本科",
+        "tongZhao": "是",
+        "majorDesc": "三生三世",
+        "twoOneOne": true,
+        "nineEightFive": true
+      },
+      {
+        "id": 2,
+        "eduDate": [
+          "2019-01-01T16:00:00.000Z",
+          "2019-02-02T16:00:00.000Z"
+        ],
+        "schoolName": "中国石油大学",
+        "major": "电子商务",
+        "degree": "本科",
+        "tongZhao": "是",
+        "majorDesc": "三生三世",
+        "twoOneOne": true,
+        "nineEightFive": true
+      }
+    ],
+    "projectExp": [
+      {
+        "id": 1,
+        "projectDesc": "fasdf"
+      },
+      {
+        "id": 2,
+        "projectDesc": "fasdf"
+      }
+    ],
+    "formProjectList": {
+      "expandedKeys": [2,3],
+      "checkedKeys":[5,7],
+      "list": ["项目1","项目2","项目3"]
+    },
+    "formFavList": {
+      "expandedKeys": [2,3],
+      "checkedKeys":[5,7],
+      "list": ["收藏夹1","收藏夹2"]
+    },"contentList": [
+    {
+      "id": 1,
+      "content": "1111哈哈哈1",
+      "createdate": "2020-02-15T16:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "content": "1111生产环境1",
+      "createdate": "2020-02-15T16:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "content": "1111哈哈哈asdfas阿斯顿发射点1",
+      "createdate": "2020-02-15T16:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "content": "1111生产阿贾克斯环境1",
+      "createdate": "2020-02-15T16:00:00.000Z"
+    }
+  ]
+  }
